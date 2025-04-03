@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Linguagem Mais Usada](https://img.shields.io/github/languages/top/gaaaaaaabriel/SeuRepositório)
+![Linguagem Mais Usada](https://img.shields.io/github/languages/top/gaaaaaaabriel/https://github.com/gaaaaaaabriel/Calculadora-de-IMC.git)
