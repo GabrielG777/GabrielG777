@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Linguagem Mais Usada](https://img.shields.io/github/languages/top/gaaaaaaabriel/SeuRepositório)
