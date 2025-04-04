@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com/?user=gaaaaaaabriel&theme=default](https://github-readme-stats.vercel.app/api?username=gaaaaaaabriel&show_icons=true&theme=radical&locale=pt-br)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaaaaaaabriel&show_icons=true&theme=radical&locale=pt-br" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaaaaaabriel&layout=compact&theme=default" />
 </p>
 
