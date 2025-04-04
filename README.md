@@ -43,3 +43,21 @@
 - 📄 [Script de Importação PDF/CSV com Interface Vue.js](https://github.com/gaaaaaaabriel/TESTES-DE-NIVELAMENTO.git)  
 - 📱 [CRUD Completo - Flutter + API REST PHP (Frontend)](https://github.com/gaaaaaaabriel/Flutter_consumoApi.git)  
 - 🔌 [CRUD Completo - Flutter + API REST PHP (Backend)](https://github.com/gaaaaaaabriel/Api.git)
+
+
+## 📬 Entre em Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-gonçalves-mendonça" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gg405246@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gaab.gon?igsh=YTBtYWlnN3puYWdi&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5514997858866" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
