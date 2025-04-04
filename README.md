@@ -36,11 +36,6 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaaaaaaabriel&show_icons=true&theme=default" />
-  <img src="https://streak-stats.demolab.com/?user=gaaaaaaabriel&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaaaaaabriel&layout=compact&theme=default" />
-</p>
 
 
 
@@ -67,4 +62,12 @@
   <a href="https://wa.me/5514997858866" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+</p>
+
+
+## ℹ️ Informações:
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gaaaaaaabriel&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaaaaaabriel&layout=compact&theme=default" />
 </p>
