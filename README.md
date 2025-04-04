@@ -35,3 +35,11 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
+
+
+## 🚀 Projetos em Destaque
+
+- 🔧 [Gerador de Site (React + Node)](https://github.com/gaaaaaaabriel/gera-site.git)  
+- 📄 [Script de Importação PDF/CSV com Interface Vue.js](https://github.com/gaaaaaaabriel/TESTES-DE-NIVELAMENTO.git)  
+- 📱 [CRUD Completo - Flutter + API REST PHP (Frontend)](https://github.com/gaaaaaaabriel/Flutter_consumoApi.git)  
+- 🔌 [CRUD Completo - Flutter + API REST PHP (Backend)](https://github.com/gaaaaaaabriel/Api.git)
