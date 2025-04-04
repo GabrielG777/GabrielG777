@@ -37,6 +37,11 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="[https://streak-stats.demolab.com/?user=gaaaaaaabriel&theme=default](https://github-readme-stats.vercel.app/api?username=gaaaaaaabriel&show_icons=true&theme=radical&locale=pt-br)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaaaaaabriel&layout=compact&theme=default" />
+</p>
+
 ## 🚀 Projetos em Destaque
 
 - 🔧 [Gerador de Site (React + Node)](https://github.com/gaaaaaaabriel/gera-site.git)  
@@ -63,9 +68,5 @@
 </p>
 
 
-## ℹ️ Informações
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gaaaaaaabriel&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaaaaaabriel&layout=compact&theme=default" />
-</p>
+
