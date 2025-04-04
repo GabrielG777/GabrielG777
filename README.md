@@ -3,6 +3,7 @@
   <img src="https://i.imgur.com/uAUsTKf.png" alt="Bem-Vindo ao meu GitHub">
 <!-- ![BemVindo2](https://github.com/user-attachments/assets/a04da239-1f4a-4708-b469-6938f3825095) -->
 </p>
+
 ## Sobre Mim  
 
 🎓 **Formação:** Cursando 5° período de Engenharia de Software  
@@ -36,9 +37,6 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
-
-
-
 ## 🚀 Projetos em Destaque
 
 - 🔧 [Gerador de Site (React + Node)](https://github.com/gaaaaaaabriel/gera-site.git)  
@@ -65,7 +63,7 @@
 </p>
 
 
-## ℹ️ Informações:
+## ℹ️ Informações
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gaaaaaaabriel&theme=default" />
