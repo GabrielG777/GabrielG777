@@ -37,11 +37,9 @@
 </p>
 
 <p align="center">
-![Estatísticas do GitHub de seu_usuario](https://github-readme-stats.vercel.app/api?username=gaaaaaaabriel&show_icons=true&theme=default)
+  ![Estatísticas do GitHub de seu_usuario](https://github-readme-stats.vercel.app/api?username=gaaaaaaabriel&show_icons=true&theme=default)
   ![GitHub Streak](https://streak-stats.demolab.com/?user=gaaaaaaabriel&theme=default)
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gaaaaaaabriel&layout=compact&theme=default)
-
-
 </p>
 
 
