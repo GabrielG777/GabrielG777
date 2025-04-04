@@ -8,7 +8,7 @@
 🎓 **Formação:** Cursando 5° período de Engenharia de Software  
 💼 **Atualmente:** Desenvolvedor de sistemas e aplicativos  
 
-### Habilidades  
+## Habilidades  
 
 - Desenvolvimento interpessoal e trabalho em equipe  
 - Estruturação e modelagem de bancos de dados relacionais  
@@ -16,7 +16,7 @@
 - Configuração e gerenciamento de servidores e hospedagens  
 - Domínio de ferramentas de desenvolvimento, como XAMPP e Android Studio  
 
-### Linguagens e Ferramentas  
+## Linguagens e Ferramentas  
 
 ✅ **Banco de Dados:** Workbench, PostgreSQL, MySQL  
 ✅ **Desenvolvimento:** Flutter/Dart, React/JavaScript, Node.js, PHP, Java  
