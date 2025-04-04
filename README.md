@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
+![Estatísticas do GitHub de seu_usuario](https://github-readme-stats.vercel.app/api?username=gaaaaaaabriel&show_icons=true&theme=default)
+
 
 ## 🚀 Projetos em Destaque
 
