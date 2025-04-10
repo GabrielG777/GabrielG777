@@ -39,7 +39,7 @@
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=gaaaaaaabriel&show_icons=true&theme=radical&locale=pt-br" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaaaaaabriel&layout=compact&theme=radical&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG777&layout=compact&theme=radical&locale=pt-br" />
 </p>
 
 ## 🚀 Projetos em Destaque
