@@ -67,7 +67,7 @@
   </a>
 </p>
 
-
+### 🐍 Snake contribution graph
 ![Snake animation](https://github.com/GabrielG777/GabrielG777/blob/output/github-contribution-grid-snake.svg)
 
 
