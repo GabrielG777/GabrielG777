@@ -6,7 +6,7 @@
 
 ## Sobre Mim  
 
-🎓 **Formação:** Cursando 5° período de Engenharia de Software  
+🎓 **Formação:** Cursando 6° período de Engenharia de Software  
 💼 **Atualmente:** Desenvolvedor de sistemas e aplicativos  
 
 ## Habilidades  
